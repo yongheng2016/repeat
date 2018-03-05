@@ -19,8 +19,8 @@
 自行搬梯子
 
 <html>
-<video src="videofile.ogg" autoplay poster="posterimage.jpg">
-  抱歉，您的浏览器不支持内嵌视频，不过不用担心，你可以 <a href="videofile.ogg">下载</a>
+<video src="https://www.youtube.com/embed/FTQAF4spX2k" autoplay poster="posterimage.jpg">
+  抱歉，您的浏览器不支持内嵌视频，不过不用担心，你可以 <a href="https://www.youtube.com/embed/FTQAF4spX2k">下载</a>
   并用你喜欢的播放器观看!
 </video>
  </html>
