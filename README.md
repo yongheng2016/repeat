@@ -19,6 +19,7 @@
 自行搬梯子
 
 <html>
+ <input type="text">
 <video src="https://www.youtube.com/embed/FTQAF4spX2k" autoplay poster="posterimage.jpg">
 </video>
  </html>
